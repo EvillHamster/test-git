@@ -1,0 +1,30 @@
+body {
+  background: #333030;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  height: 100vh;
+}
+
+.title {
+  color: #fff;
+  font-size: 70px;
+  line-height: 137%;
+}
+
+.btn {
+  display: block;
+  font-size: 50px;
+  color: black;
+  padding: 20px 100px;
+}
+
+.on {
+  color: green;
+}
+
+.off {
+  color: red;
+}
